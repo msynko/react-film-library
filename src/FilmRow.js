@@ -20,7 +20,7 @@ class FilmRow extends Component {
        </div>
      </div>
     )
-  };
+  }
 }
 
 export default FilmRow;
